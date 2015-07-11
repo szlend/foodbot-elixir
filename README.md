@@ -1,4 +1,4 @@
 Foodbot
 =======
 
-** TODO: Add description **
+Foodbot written in Elixir
